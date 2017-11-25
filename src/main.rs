@@ -71,7 +71,6 @@ fn main() {
         MB_OK | MB_ICONINFORMATION
     );
 
-
     msgbox_wide(
         std::ptr::null_mut(),
         lp_text_w.as_ptr(),
