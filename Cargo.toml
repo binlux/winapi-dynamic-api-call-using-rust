@@ -1,0 +1,10 @@
+[package]
+name = "getprocadd"
+version = "0.1.0"
+authors = ["jamalcoder <jamalcoder@hotmail.com>"]
+
+[dependencies]
+winapi = "*"
+user32-sys = "*"
+kernel32-sys = "*"
+widestring = "*"
